@@ -1,0 +1,11 @@
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\bin\Debug\netcoreapp2.0\NEWSWEB.deps.json
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\bin\Debug\netcoreapp2.0\NEWSWEB.runtimeconfig.json
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\bin\Debug\netcoreapp2.0\NEWSWEB.runtimeconfig.dev.json
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\bin\Debug\netcoreapp2.0\NEWSWEB.dll
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\bin\Debug\netcoreapp2.0\NEWSWEB.pdb
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.csprojResolveAssemblyReference.cache
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.csproj.CoreCompileInputs.cache
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.AssemblyInfoInputs.cache
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.AssemblyInfo.cs
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.dll
+G:\工程项目\NEWSYSTEM\NEWS\NEWSWEB\obj\Debug\netcoreapp2.0\NEWSWEB.pdb
